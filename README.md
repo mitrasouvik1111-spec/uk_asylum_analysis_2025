@@ -4,7 +4,7 @@
 This project processes raw, publicly available OpenDocument Spreadsheets (`.ods`) published by the UK Home Office to analyze the reality of the UK asylum pipeline. Moving beyond political rhetoric, this analysis uses Python to visualize volume trends, identify demographic shifts, track route-of-entry behaviors, and assess judicial appeal outcomes.
 
 ## 🛠️ Tools & Technologies Used
-* **Python 3.x**
+* **Python 3.13**
 * **Pandas:** Used for complex data extraction, standardizing headers, and handling merged metadata rows.
 * **Matplotlib:** Generated dual-axis tracking of the processing backlog and operational support costs.
 * **Plotly:** Engineered an interactive Sankey Diagram mapping the legal pipeline of asylum appeals.
